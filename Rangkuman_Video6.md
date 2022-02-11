@@ -22,8 +22,6 @@ Branch dan Merged disini sama persis seperti pada github hanya saja kali ini dil
 ```
 git branch <nama branch baru>
 ```
-### contoh screenshot:
-![](screenshots/.png)
  
 - untuk melihat semua branch yang ada dapat mengetikan perintah
 
@@ -32,8 +30,6 @@ git branch
 ```
 
 branch yang berwarna hijau berarti branch yang sedang aktif kerena head mengarah pada branch tersebut
-### contoh screenshot:
-![](screenshots/.png)
  
 - untuk pindah ke branch yang lain maka kita dapat mengetikan perintah
 
@@ -41,15 +37,13 @@ branch yang berwarna hijau berarti branch yang sedang aktif kerena head mengarah
 git checkout <nama branch>
 ```
 ### contoh screenshot:
-![](screenshots/.png)
+![](screenshots/branch-checkout.png)
  
 - untuk menggabungkan dua branch dapat mengetikan perintah
 
 ```
 git merge <nama branch yang ingin di merge>
 ```
-### contoh screenshot:
-![](screenshots/.png)
  
 - untuk mengecek branch apa saja yang telah di merged maka kita dapat mengetikan perintah
 
@@ -57,7 +51,7 @@ git merge <nama branch yang ingin di merge>
 git branch --merged
 ```
 ### contoh screenshot:
-![](screenshots/.png)
+![](screenshots/merged.png)
  
 - dan bila selesai melakukan merged untuk menghapus branch dapat mengetikan perintah
 
@@ -65,6 +59,6 @@ git branch --merged
 git branch -d <nama branch yang ingin dihapus>
 ```
 ### contoh screenshot:
-![](screenshots/.png)
+![](screenshots/delete.png)
  
 <p>&nbsp;</p>

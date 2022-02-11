@@ -23,6 +23,7 @@ Untuk meregristrasikan file file, pertama kita perlu untuk membuat file gitignor
 - untuk spesifik file dengan ekstennsi tertentu tulis diawali dengan bintang (*<....>)
 
 ### contoh screenshot:
-![](screenshots/.png)
- 
+![](screenshots/repo-lokal.png)
+![](screenshots/gitignore.png)
+
 <p>&nbsp;</p>

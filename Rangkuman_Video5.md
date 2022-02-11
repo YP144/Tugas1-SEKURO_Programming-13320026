@@ -34,7 +34,7 @@ git init
 
 maka folder tersebut akan menjadi repository didalam git dan semua perubahan didalamnya akan diawasi oleh git
 ### contoh screenshot:
-![](screenshots/.png)
+![](screenshots/cd-init.png)
  
 - untuk melihat apakah ada file yang belum tercommit dalam github kita dapat mengetikan
  
@@ -42,7 +42,7 @@ maka folder tersebut akan menjadi repository didalam git dan semua perubahan did
 git status 
 ```
 ### contoh screenshot:
-![](screenshots/.png)
+![](screenshots/status.png)
  
 - untuk menambahkan file yang belum ter-track ke dalam stagging area maka kita dapat menggunakan perintah
 
@@ -56,7 +56,7 @@ atau untuk banyak file sekaligus
 git add .
 ```
 ### contoh screenshot:
-![](screenshots/.png)
+![](screenshots/add.png)
  
 - kemudian setelah masuk ke stagging area maka kita dapat melakukan commit dengan cara 
 
@@ -66,7 +66,7 @@ git commit -m "<judul commit>"
 
 - maka setelah semua file telah dicommit maka akan tertulis "nothing to commit, working tree clean"   
 ### contoh screenshot:
-![](screenshots/.png)
+![](screenshots/commit.png)
  
 - untuk melihat catatan rekaman perubahan kita dapat mengetikan perintah 
 
