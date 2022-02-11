@@ -74,6 +74,6 @@ git commit -m "<judul commit>"
 git log -<berapa log terakhir yang ingin dilihat>
 ```
 ### contoh screenshot:
-![](screenshots/.png)
+![](screenshots/log.png)
  
 <p>&nbsp;</p>
